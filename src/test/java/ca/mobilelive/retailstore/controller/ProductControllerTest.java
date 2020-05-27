@@ -1,7 +1,6 @@
 package ca.mobilelive.retailstore.controller;
 
 import ca.mobilelive.retailstore.Application;
-import ca.mobilelive.retailstore.exception.ProductNotFoundException;
 import ca.mobilelive.retailstore.model.Constants;
 import org.junit.Assert;
 import org.junit.Before;
